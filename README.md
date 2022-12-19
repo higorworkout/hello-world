@@ -10,3 +10,7 @@ it now includes steps for GitHub
 
 let's new up to date!!!
 
+
+check it out dude 
+man
+
