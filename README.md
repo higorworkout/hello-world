@@ -10,3 +10,6 @@ it now includes steps for GitHub
 
 let's new up to date!!!
 
+A branch e a skeleton now were creative
+
+testando de novo staging environment 
