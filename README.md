@@ -13,3 +13,8 @@ let's new up to date!!!
 A branch e a skeleton now were creative
 
 testando de novo staging environment 
+
+we are testing the pull functionality 
+let's see it now
+
+go 
